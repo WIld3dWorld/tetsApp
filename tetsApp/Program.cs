@@ -11,6 +11,7 @@ namespace tetsApp
         static void Main(string[] args)
         {
             Console.WriteLine("Test Line!");
+            Console.WriteLine("And Bonjour mazafaker!");
         }
     }
 }
